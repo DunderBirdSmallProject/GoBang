@@ -1,3 +1,4 @@
 goBang
 **__pycache__
 .vscode
+.gitignore
